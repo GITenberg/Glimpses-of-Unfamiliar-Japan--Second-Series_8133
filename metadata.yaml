@@ -1,0 +1,42 @@
+_repo: Glimpses-of-Unfamiliar-Japan--Second-Series_8133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Hearn, Patrick Lafcadio
+    - Xiaoquan, Bayun
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: 'Vol. 1. My first day in the Orient ; The writing of Kōbōdaishi ; Jizō
+  ; A pilgrimage to Enoshima ; At the market of the dead ; Bon-Odori ; The Chief City
+  of the Province of the Gods ; Kitzuki: the most ancient shrine in Japan ; In the
+  cave of the children''s ghosts ; At Mionoseki ; Notes on Kitzuki ; At Hinomisaki
+  ; Shinjū ; Yaegaki-Jinja ; Kitsune -- Vol. 2. In a Japanese garden ; The household
+  shrine ; Of women''s hair ; From the diary of an English teacher ; Two strange festivals
+  ; By the Japanese Sea ; Of a dancing-girl ; From Hōki to Oki ; Of souls ; Of ghosts
+  and goblins ; The Japanese smile ; Sayōnara!.'
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Religious life and customs'
+- !lcsh 'Japan -- Description and travel'
+- !lcc 'DS'
+- !lcsh 'Hearn, Lafcadio, 1850-1904 -- Homes and haunts -- Japan'
+- GITenberg
+tableOfContents: In a Japanese garden -- The household shrine -- Of women's hair --
+  From the diary of an English teacher -- Two strange festivals -- By the Japanese
+  Sea -- Of a dancing-girl -- From Hoki to Oki -- Of souls -- Of ghosts and goblins
+  -- The Japanese smile -- Sayonara!
+title: 'Glimpses of Unfamiliar Japan: Second Series'
+url: http://www.gutenberg.org/ebooks/8133
