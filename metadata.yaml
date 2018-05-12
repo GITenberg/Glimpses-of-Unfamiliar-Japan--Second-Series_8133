@@ -1,5 +1,8 @@
 _repo: Glimpses-of-Unfamiliar-Japan--Second-Series_8133
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hearn, Lafcadio
@@ -20,6 +23,8 @@ description: 'Vol. 1. My first day in the Orient ; The writing of Kōbōdaishi ;
   shrine ; Of women''s hair ; From the diary of an English teacher ; Two strange festivals
   ; By the Japanese Sea ; Of a dancing-girl ; From Hōki to Oki ; Of souls ; Of ghosts
   and goblins ; The Japanese smile ; Sayōnara!.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8133#Glimpses-of-Unfamiliar-Japan--Second-Series
 gutenberg_issued: '2005-05-01'
 gutenberg_type: Text
 identifiers:
